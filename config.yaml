@@ -8,7 +8,6 @@ params:
   enableSearch: true
   ShowReadingTime: true
   ShowShareButtons: true
-  ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true

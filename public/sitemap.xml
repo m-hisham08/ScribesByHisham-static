@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-second-post/</loc>
+    <loc>https://m-hisham08.github.io/posts/my-second-post/</loc>
     <lastmod>2024-07-25T22:04:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://m-hisham08.github.io/posts/</loc>
     <lastmod>2024-07-25T22:04:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://m-hisham08.github.io/</loc>
     <lastmod>2024-07-25T22:04:31+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-third-post/</loc>
+    <loc>https://m-hisham08.github.io/posts/my-third-post/</loc>
     <lastmod>2024-07-25T22:04:28+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://m-hisham08.github.io/categories/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/creating-my-first-post/</loc>
+    <loc>https://m-hisham08.github.io/posts/creating-my-first-post/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://m-hisham08.github.io/tags/hugo/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/papermod/</loc>
+    <loc>https://m-hisham08.github.io/tags/papermod/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/static-sites/</loc>
+    <loc>https://m-hisham08.github.io/tags/static-sites/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://m-hisham08.github.io/tags/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
+    <loc>https://m-hisham08.github.io/categories/technology/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/web-development/</loc>
+    <loc>https://m-hisham08.github.io/categories/web-development/</loc>
     <lastmod>2024-07-25T19:27:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://m-hisham08.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://m-hisham08.github.io/search/</loc>
   </url>
 </urlset>
