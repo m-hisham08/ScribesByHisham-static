@@ -12,7 +12,7 @@ author: Hisham
 
 summary: A guide to how I automated my workflow for blogging using Hugo + Notion
 
-draft: true
+draft: false
 
 ---
 
