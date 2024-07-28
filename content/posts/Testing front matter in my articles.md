@@ -1,20 +1,17 @@
 ---
-
-title: Testing the front matter parameters in my articles
+title: Understanding File Structures in Linux
 
 date: 2024-07-27
 
-tags:  [“tag1”,”tag2”]
+tags: [“tag1”, ”tag2”]
 
-categories: [“category1”,”category2”]
+categories: [“category1”, ”category2”]
 
 author: Mohammad Hisham
 
-summary: 
+summary:
 
 draft: false
-
 ---
 
 # Let’s get started!
-
