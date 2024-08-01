@@ -1,6 +1,6 @@
 ---
 
-title: From Notion to Live in Minutes - A Guide to How I Manage My Personal Blog Through Notion - Remastered
+title: From Notion to Live in Minutes - A Guide to How I Manage My Personal Blog Through Notion
 
 date: 2024-07-27
 
